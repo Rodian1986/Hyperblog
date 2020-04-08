@@ -11,5 +11,5 @@ Blog para curso Git y [GitHub Platzi](https://platzi.com/cursos/git-github/ "Git
 * Aplicación de buenas practicas.
 * Trucos interesantes.
 * Realiza por equipo Ingnova.
-
+* Incluye ejemplos en windows, linux y Mac
 >Este  Readme es ejemplo de una actividad realizada

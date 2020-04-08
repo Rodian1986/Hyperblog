@@ -10,5 +10,6 @@ Blog para curso Git y [GitHub Platzi](https://platzi.com/cursos/git-github/ "Git
 * Flujo de trabajo en GitHub.
 * Aplicación de buenas practicas.
 * Trucos interesantes.
+* Realiza por equipo Ingnova.
 
 >Este  Readme es ejemplo de una actividad realizada
